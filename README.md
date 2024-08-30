@@ -1,4 +1,4 @@
-<p align="center"><a href="https://cabjari-banggaidipagimana.kejaksaan.go.id/" target="_blank"><img src="https://github.com/user-attachments/assets/31253a8f-d599-4bea-87ed-8c84f85d14b9" width="400" alt="Pagimana Logo"></a></p>
+<p align="center"><a href="https://cabjari-banggaidipagimana.kejaksaan.go.id/" target="_blank"><img src="https://github.com/user-attachments/assets/b8d209cb-3ff8-400e-a7e2-5d92c18349f5" width="400" alt="Pagimana Logo"></a></p>
 
 <!-- <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
@@ -30,20 +30,19 @@ Website ini menggunakan framework [Laravel](https://laravel.com) dan [Filament](
 ## ScreenShot
 
 # Dashboard
-<img width="1280" alt="dashboard" src="https://github.com/user-attachments/assets/4517ca54-a932-494c-839d-9aabb4871c50">
+<img width="1280" alt="dashboard" src="https://github.com/user-attachments/assets/81d487b3-89c2-45e4-94f1-dc192b892fb4">
 
 # Management Akun dan Data Staff
-<img width="1280" alt="akun" src="https://github.com/user-attachments/assets/b2eab6f3-7784-4e09-bbac-b20e5cfaa3a3">
+<img width="1280" alt="akun" src="https://github.com/user-attachments/assets/6b76990b-1cfc-4e6e-adcb-8d62c6278d60">
 
 # Management Berita
-<img width="1280" alt="berita" src="https://github.com/user-attachments/assets/6031b4d7-fc8c-4c12-bf07-3f588a38b9ab">
+<img width="1280" alt="berita" src="https://github.com/user-attachments/assets/349ac292-d3ea-45d4-9b3e-40b658579e00">
 
 # Management Inventaris BMN
-<img width="1280" alt="bmn" src="https://github.com/user-attachments/assets/386d82db-e289-4805-b5a9-96838ad790cc">
+<img width="1280" alt="bmn" src="https://github.com/user-attachments/assets/b2e15439-03da-472e-bfcb-cc762e49374c">
 
 # Activities Log
-<img width="1280" alt="activity" src="https://github.com/user-attachments/assets/32d649e6-b9a5-47b4-be2e-4b53b82585a5">
+<img width="1280" alt="activity" src="https://github.com/user-attachments/assets/65926a0e-ce44-4241-9bac-3e26828917cf">
 
 # Kanban Tugas Bidang Pidum
-<img width="1280" alt="kanban" src="https://github.com/user-attachments/assets/2e34cef6-a1cf-4308-99c2-ed8fafde223a">
-# WEB-SATKER
+<img width="1280" alt="kanban" src="https://github.com/user-attachments/assets/cdcba9d0-374f-4f23-8c40-ea1be922ae82">
