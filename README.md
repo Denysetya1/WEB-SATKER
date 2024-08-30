@@ -21,8 +21,6 @@ Website ini dibuat dan diunggah untuk memberikan informasi dan mempermudah pelay
 - Kanban Tugas Bidang Pidum terintegrasi dengan Bot Telegram untuk Notifikasi
 - Management Pemeriksaan Pidsus dengan Checklist Dokumen atau Barang yang Dipinjam guna pemeriksaan (On Progres)
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
 ## Teknologi yang Digunakan
 
 Website ini menggunakan framework [Laravel](https://laravel.com) dan [Filament](https://filamentphp.com/).
